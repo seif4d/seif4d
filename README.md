@@ -1,26 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Seif%20X%20DebiaN&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Encrypted%20soul.%20Muslim%20core.&descAlign=Y&descAlignY=70" />
-
-### 👑 CEO @Scope & @Dragon | 🛡️ Pentester | 💻 Software Engineer
-<p align="center">
-  <a href="https://twitter.com/seif4d"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://youtube.com/@0x47md"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
-
-</div>
-
----
-
-## 🕶️ The Mastermind `whoami`
-
-```bash
-root@debian:~# ./scan_profile.sh --target seif
-
-[+] Target Acquired: Seif X DebiaN
 [+] Titles: CEO, Software Engineer, Pentester, Researcher, Creator.
 [+] Status: Architecting digital empires, securing networks, and creating impactful content.
-```
 
 I am **Seif**, a multi-disciplinary tech executive, creator, and engineer based in Egypt 🇪🇬. As the **CEO of Scope & Dragon**, I bridge the gap between heavy technical engineering and creative digital art. Whether I am hunting vulnerabilities as a Pentester, building full-stack web architectures, editing visual stories, or integrating AI, my core mission remains the same: **Building meaningful, secure, and aesthetically pleasing digital experiences driven by my Islamic values.**
 
