@@ -1,95 +1,151 @@
 <div align="center">
 
-<!-- Boot Sequence / Glitch Aesthetic -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A81D33&center=true&vCenter=true&width=800&lines=[INITIALIZING+SYSTEM...+];[TARGET+ACQUIRED:+SEIF_X_DEBIAN];[DECRYPTING+SOUL...];[LOADING+MUSLIM_CORE...];[ACCESS+GRANTED]" alt="Boot Sequence" />
+<!-- SYSTEM BOOT ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=A81D33&center=true&vCenter=true&width=800&lines=[+SYSTEM+ONLINE+];[+AUTHENTICATING+ROOT+USER...+];[+WELCOME,+SEIF_X_DEBIAN+];[+ENCRYPTED_SOUL.MUSLIM_CORE+]" alt="Boot Sequence" />
 
-<br>
+<!-- GLITCH NAME BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=S%20E%20I%20F%20%20%20X%20%20%20D%20E%20B%20I%20A%20N&fontSize=60&fontColor=ffffff&animation=twinkling" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=S%20E%20I%20F%20%20%20X%20%20%20D%20E%20B%20I%20A%20N&fontSize=55&fontColor=ffffff&animation=twinkling" />
-
-### 👁️ `THE ARCHITECT` | 👑 `CEO @Scope` | 🐉 `CEO @Dragon`
+### 👑 `MusliM`
+**`POLYMATHiC ARCHITECT`** • **`CYBER GHOST`** • **`VISUAL STORYTELLER`**
 
 <p align="center">
-  <a href="https://twitter.com/seif4d"><img src="https://img.shields.io/badge/CLASSIFIED_COMMS-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://youtube.com/@0x47md"><img src="https://img.shields.io/badge/VISUAL_BROADCASTS-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/SECURE_COMMS-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/seif4d"><img src="https://img.shields.io/badge/X_NETWORK-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://youtube.com/@0x47md"><img src="https://img.shields.io/badge/VISUAL_INTEL-A81D33?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 <br>
 </div>
 
-> *"Ordinary minds write lines of code. I write realities. Operating in the shadows of networks, leading empires, and engineering digital art. I am the anomaly."*
+> *"I do not adapt to the matrix; I write its source code. From architecting corporate empires to shattering network defenses and designing digital art—I operate where logic meets aesthetic."*
 
 ---
 
-### 🩸 `[ DIRECTIVE_01 : THE IDENTITY ]`
+### 🩸 `[ ROOT_ACCESS ] : THE IDENTITY MATRIX`
 
-I don't fit into a single title. I am a **Polymath**—a multi-dimensional entity operating across the entire spectrum of the digital world. Based in Egypt, driven by an unshakeable Islamic core, I build, I break, I lead, and I create. 
+```bash
+root@debian:~# ./extract_profile --target seif4d
+[+] Extracted Roles:
+    ├── Executive    : CEO @Scope | CEO @Dragon (Leading digital ecosystems)
+    ├── Engineering  : Full-Stack Dev | Software Engineer | AI Integrator
+    ├── Security     : Penetration Tester | Network Engineer | Threat Hunter
+    └── Creative     : Video Editor | UI/UX Designer | Writer | Content Creator
+[+] Status: Fully Operational.
+```
 
-*   **The Executive:** CEO of **Scope** & **Dragon**. I don't just participate in the game; I own the board.
-*   **The Phantom:** A Penetration Tester and Security Researcher. I find the cracks in your walls before you even know they exist.
-*   **The Creator:** Video Editor, Designer, and AI Researcher. I manipulate pixels, algorithms, and human perception.
-*   **The Pioneer:** Writer and the first Arabic mind to decode and engineer the **Logseq** PKM ecosystem for the MENA region.
-
----
-
-### 🏴‍☠️ `[ DIRECTIVE_02 : THE ARSENAL ]`
-
-No limits. Full dominance over the stack, the system, and the canvas.
-
-#### ❖ `CYBER WARFARE & ENGINEERING`
-<p align="left">
-  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian_Core-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack_Dev-1572B6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Engineering-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-#### ❖ `INTELLIGENCE & CREATION`
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video_Manipulation-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX_Architecture-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PKM_Research-002B36?style=for-the-badge&logo=logseq&logoColor=white" />
-</p>
+I am an anomaly in the tech space. Operating out of Egypt, my foundation is built on a solid **Islamic Core**, which fuels my discipline. I don't just build apps; I build companies. I don't just use tools; I dissect them.
 
 ---
 
-### 📂 `[ DIRECTIVE_03 : DECLASSIFIED OPERATIONS ]`
+### ⚙️ `[ SYSTEM_CAPABILITIES ] : THE ARSENAL`
 
-My deployments are a fusion of raw tech, aesthetic UI, and Islamic purpose.
+<details open>
+<summary><b>👑 EXECUTIVE & LOGIC </b> <i>(Click to close)</i></summary>
+<br>
+<blockquote>
+  Operating at the highest level of abstraction. Leading teams, managing products, and researching AI logic to serve the Ummah.
+</blockquote>
 
-*   🩸 **[GPT-Quran](https://github.com/seif4d/GPT-Quran)** `//` The modern digital sanctuary. A flawlessly engineered interactive Quranic companion.
-*   🩸 **[Tasbih](https://github.com/seif4d/Tasbih)** `//` Supplication meets the Matrix. A dark, gamified digital world built for the soul.
-*   🩸 **[examz](https://github.com/seif4d/examz)** `//` Precision utility. An optimized schedule architecture for Assiut University.
-*   🩸 **[OldHarmed](https://github.com/seif4d/OldHarmed)** `//` E-commerce elegance. A responsive, high-tier front-end medical wear interface.
+- **Leadership:** CEO @Scope, CEO @Dragon, Product Architecture.
+- **AI & Research:** Open-Source LLMs, HuggingFace Datasets (Quran-Recitations).
+- **PKM Mastery:** The first Arab pioneer & writer to reverse-engineer and document **Logseq**.
+</details>
+
+<details open>
+<summary><b>🛡️ OFFENSIVE SECURITY & SYSTEMS </b> <i>(Click to close)</i></summary>
+<br>
+<blockquote>
+  Finding the unseen. Breaking the unbreakable.
+</blockquote>
+
+- **Network Warfare:** `<Kali Linux>` `<Debian>` `<Cisco Networking>`
+- **Penetration Testing:** `<Web App Sec>` `<Vulnerability Assessment>`
+- **System Admin:** `<Bash Scripting>` `<Linux Kernel>` `<Server Architect>`
+</details>
+
+<details open>
+<summary><b>💻 FULL-STACK ARCHITECTURE </b> <i>(Click to close)</i></summary>
+<br>
+<blockquote>
+  Building robust, scalable, and pixel-perfect environments.
+</blockquote>
+
+- **Core Web:** `<HTML5>` `<CSS3>` `<Vanilla JS>` `<DOM Manipulation>`
+- **Engineering:** `<Clean Code>` `<System Design>` `<API Integration>`
+</details>
+
+<details open>
+<summary><b>🎨 THE CREATIVE FORGE </b> <i>(Click to close)</i></summary>
+<br>
+<blockquote>
+  Engineering human perception through visual art and storytelling.
+</blockquote>
+
+- **Post-Production:** `<Adobe Premiere Pro>` `<Cinematic Editing>` `<VFX>`
+- **Design:** `<Figma>` `<UI/UX Architecture>` `<Brand Identity>`
+- **Content:** `<YouTube @0x47md>` `<Technical Writing>` `<Islamic Da'wah>`
+</details>
 
 ---
 
-### 📡 `[ DIRECTIVE_04 : BROADCAST INTERCEPTS ]`
+### 📂 `[ DECLASSIFIED_OPS ] : MISSION LOGS`
 
-The code is only half the story. I control the narrative:
-- 👁️ **The Logseq Architect:** Wrote the blueprint. The absolute first Arabic technical guide and visual breakdown for Logseq.
-- 👁️ **Visual Da'wah:** YouTube is my frequency. I fuse deep tech tutorials with powerful Islamic messaging, crafted with cinematic video editing.
-- 👁️ **AI for the Ummah:** Active backer of open-source AI datasets, championing the integration of AI with the Holy Quran.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <h4 align="center">🩸 <a href="https://github.com/seif4d/GPT-Quran">GPT-Quran</a></h4>
+      <p align="center"><i>"The Digital Sanctuary"</i></p>
+      <p>A flawlessly engineered, interactive Quranic companion built entirely with pure Vanilla JS. Aesthetic UI meets spiritual utility.</p>
+      <p align="center"><code>Full-Stack</code> • <code>UI/UX</code></p>
+    </td>
+    <td width="50%">
+      <h4 align="center">🩸 <a href="https://github.com/seif4d/Tasbih">Tasbih (Dark World)</a></h4>
+      <p align="center"><i>"Gamified Supplication"</i></p>
+      <p>Supplication meets the Matrix. A dark-themed, gamified digital world built to protect the soul using visual shield mechanics.</p>
+      <p align="center"><code>Front-End</code> • <code>Game Logic</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">🩸 <a href="https://github.com/seif4d/OldHarmed">OldHarmed</a></h4>
+      <p align="center"><i>"E-Commerce Elegance"</i></p>
+      <p>A highly responsive, modern front-end architecture designed for a premium medical wear storefront.</p>
+      <p align="center"><code>Web Design</code> • <code>Architecture</code></p>
+    </td>
+    <td width="50%">
+      <h4 align="center">🩸 <a href="https://github.com/seif4d/examz">Examz (Assiut Univ)</a></h4>
+      <p align="center"><i>"Precision Utility"</i></p>
+      <p>An optimized, fast-loading schedule infrastructure built specifically for Sports Science students.</p>
+      <p align="center"><code>Utility App</code> • <code>Optimization</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎛️ `[ SYSTEM TELEMETRY ]`
+### 📡 `[ BROADCAST_INTEL ] : BEYOND THE CODE`
+
+I don't just exist on GitHub. I control the narrative across the web:
+*   👁️ **The PKM Architect:** I brought **Logseq** to the Arab world. I authored the foundational Arabic technical guides and visual breakdowns for advanced Personal Knowledge Management.
+*   👁️ **Visual Da'wah:** On **[YouTube](https://youtube.com/@0x47md)**, I fuse high-level tech tutorials with cinematic video editing to deliver powerful Islamic messages (e.g., *Khutbat Al-Ghurabaa*).
+*   👁️ **The Executive Mindset:** Managing operations at **Scope** and **Dragon**, I merge the aggression of a Pentester with the vision of a CEO.
+
+---
+
+### 🎛️ `[ LIVE_TELEMETRY ] : NETWORK STATS`
 
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=seif4d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A81D33&icon_color=A81D33&text_color=ffffff" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seif4d&theme=tokyonight&hide_border=true&background=000000&ring=A81D33&fire=A81D33&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A81D33" alt="Streak" />
 
-  <br><br>
-  
+</div>
+
+---
+
+<div align="center">
+  <code>[SYSTEM_SHUTDOWN] : May our code be clean, our networks secure, and our intentions pure.</code><br><br>
   <a href="https://github.com/seif4d">
     <img src="https://komarev.com/ghpvc/?username=seif4d&label=SYSTEM_INTRUSIONS&color=A81D33&style=for-the-badge" alt="Views" />
   </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <code>System shutting down... May our intentions remain pure.</code>
 </div>
