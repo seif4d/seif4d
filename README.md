@@ -1,51 +1,77 @@
-<h1 align="center">Hi 👋, I'm Seif X DebiaN (seif4d)</h1>
-<h3 align="center">"Encrypted soul Muslim core."</h3>
+<div align="center">
+  <h1>Hello, I'm Seif X DebiaN! 👋</h1>
+  <h3>"Encrypted soul Muslim core."</h3>
+</div>
 
-<p align="center">
-  I'm a passionate <b>Front-End Developer</b> based in Egypt 🇪🇬. I specialize in building clean, interactive, and meaningful web applications using pure web technologies. From Islamic digital tools to educational and e-commerce platforms, I love turning ideas into reality.
-</p>
+Welcome to my GitHub profile! I'm a passionate developer committed to building interactive, meaningful web applications and contributing to the open-source community.
 
----
+## 🚀 About Me
 
-### 👨‍💻 About Me
+I'm a Front-End Developer with a love for clean code, problem-solving, and building projects that blend modern UI with educational and religious value. I enjoy exploring pure web technologies and bringing creative ideas to life.
 
-- 💻 I mainly work with **HTML5, CSS3, and Vanilla JavaScript** to create modern UIs.
-- 🕌 Creator of digital Islamic tools like **GPT-Quran** and interactive **Tasbih** apps.
-- 🎓 I build educational web pages and schedules for university students (Assiut University).
-- 🌱 Currently exploring and expanding my knowledge in modern web frameworks.
-- 📫 How to reach me: **[أضف بريدك الإلكتروني هنا أو رابط حسابك على تويتر/لينكدإن]**
+- 💻 **Passionate about:** Front-End Development, interactive UI designs, and building digital Islamic tools.
+- 🎯 **Currently focused on:** Creating responsive web apps and educational platforms for students.
+- 📚 **Always learning:** Modern web frameworks, design patterns, and advanced JavaScript techniques.
+- 🌍 **Based in:** Egypt 🇪🇬 
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Languages & Tools
+**Frontend:**
+`HTML5` `CSS3` `JavaScript (Vanilla)` `Responsive Design` `DOM Manipulation`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+**Tools & Platforms:**
+`Git` `GitHub` `VS Code` `Vercel / GitHub Pages`
 
----
+## 📂 Featured Projects
 
-### 🚀 Featured Projects
+### 📖 [GPT-Quran](https://github.com/seif4d/GPT-Quran) & [quran](https://github.com/seif4d/quran)
+Interactive and modern digital companions for reciting the Holy Quran, providing a seamless reading experience.
+- **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
+- **Key Features:** Modern UI, interactive reading layout, built entirely without external frameworks.
 
-- 📖 **[GPT-Quran](https://github.com/seif4d/GPT-Quran) & [quran](https://github.com/seif4d/quran)**: Interactive and modern digital companions for reciting the Holy Quran, built entirely with Vanilla JS.
-- 📿 **[Tasbih](https://github.com/seif4d/Tasbih)**: A creative digital Tasbih app featuring a unique "dark digital world" aesthetic and gamification elements.
-- 🩺 **[OldHarmed](https://github.com/seif4d/OldHarmed)**: A responsive, modern front-end e-commerce template designed for a medical wear store.
-- 🎓 **[examz](https://github.com/seif4d/examz)** & **[statistics](https://github.com/seif4d/statistics)**: Interactive educational tools and schedule viewers designed for university students.
+### 📿 [Tasbih](https://github.com/seif4d/Tasbih)
+A creative digital Tasbih (supplication) app that blends religious practice with gamification.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Key Features:** Unique "dark digital world" aesthetic, visual feedback mechanisms (shield/arrows).
 
----
+### 🩺[OldHarmed](https://github.com/seif4d/OldHarmed)
+A responsive, modern front-end e-commerce template designed specifically for a medical wear store.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Key Features:** Clean product showcase, fully responsive grid layout, user-friendly interface.
 
-### 📊 GitHub Stats
+### 🎓[examz](https://github.com/seif4d/examz)
+An exam schedule viewer created specifically for First-Year Sports Science students at Assiut University.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Key Features:** Fast loading, intuitive schedule layout, tailored for mobile and desktop viewing.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seif4d&show_icons=true&theme=radical&hide_border=true" alt="seif4d's GitHub stats" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seif4d&show_icons=true&theme=radical&hide_border=true" alt="Seif's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seif4d&theme=radical&hide_border=true" alt="seif4d's GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seif4d&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seif4d&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on meaningful projects and connecting with fellow developers. Feel free to reach out!
+
+- **Email:** [أضف إيميلك هنا - your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
+- **Twitter / X:** [@yourhandle](https://twitter.com/yourhandle)
+
+## 💡 Fun Facts
+
+- 🎨 When I'm not coding, you'll find me exploring new UI/UX designs.
+- 🕌 I love integrating my technical skills with my faith to build useful Islamic web apps.
+- 🎧 My coding sessions are usually fueled by pure focus and coffee.
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! Don't forget to star ⭐ my repositories if you find them helpful.**
+
+<img src="https://komarev.com/ghpvc/?username=seif4d&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
