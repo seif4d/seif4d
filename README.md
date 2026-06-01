@@ -10,7 +10,7 @@
 **`POLYMATHiC ARCHITECT`** • **`CYBER GHOST`** • **`VISUAL STORYTELLER`**
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/SECURE_COMMS-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/seif4d"><img src="https://img.shields.io/badge/SECURE_COMMS-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/seif4d"><img src="https://img.shields.io/badge/X_NETWORK-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://youtube.com/@0x47md"><img src="https://img.shields.io/badge/VISUAL_INTEL-A81D33?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
